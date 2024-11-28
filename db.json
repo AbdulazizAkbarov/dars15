@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Bugatti",
+      "info": "Dunyodagi eng qimmat mashinalardan biri",
+      "price": "1mln$",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPWZ3qCXwb0Nu22yV9jJQfYeUjmYm9YNfgzsEe97hYAHY9gAsMnq2JNv4lRSUBSpTieQ&usqp=CAU",
+      "liked": false,
+      "like": []
+    },
+    {
+      "id": "2",
+      "name": "Rolls Royce",
+      "info": "Dunyodagi eng qimmat mashinalardan biri",
+      "price": "2.5 mln$",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfiphTBxXj6yrnenJMCeIXR5bZx1xr3oTfmYGvIIbncLdQaxvEtMX4yfVyCsZEEARNOY&usqp=CAU",
+      "liked": false,
+      "like": []
+    },
+    {
+      "id": "3",
+      "name": "Gelend Vagen",
+      "info": "Dunyodagi eng chiroylik mashinalardan biri",
+      "price": "500mln$",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUilgzMocEGSq28GHLtq1svUhU04SxM5wJIduvvGnKg6-NIkCVLd2e3qzR-wzUsLX6As&usqp=CAU",
+      "liked": false
+    },
+    {
+      "id": "4",
+      "name": "Lambarghini",
+      "info": "Dunyodagi eng qimmat mashinalardan biri",
+      "price": "1mlrd $",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHj_Gbhona85pgTyG1_Dh-mA4tl_zZW3Tcu17-XVs5lC-6oiHW0MCT244SqDqB3VIwUs&usqp=CAU",
+      "liked": false
+    }
+  ],
+  "like": []
+}
